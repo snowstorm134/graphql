@@ -1,0 +1,2 @@
+# graphql
+deploy graph server
